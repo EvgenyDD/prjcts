@@ -1,0 +1,14 @@
+*/History/*
+*/Project Logs*
+*/Project Outputs*
+*/__Previews/*
+*.o
+*.d
+*.dep
+*.obj
+*.lst
+*.exe
+*.hex
+*.bin
+*.elf
+.dep/*
